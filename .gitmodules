@@ -1,0 +1,3 @@
+[submodule "goat-elegant"]
+	path = goat-elegant
+	url = git@github.com:gwdgithubnom/goat-elegant.git
